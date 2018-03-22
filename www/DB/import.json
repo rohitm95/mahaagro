@@ -1,0 +1,95 @@
+{
+  "category" : {
+    "cat01" : "Seeds",
+    "cat02" : "Fertilizers",
+	"cat03" : "Insecticides / Pesticides"
+  },
+  "featured" : {
+    "item1" : "slide_1",
+    "item2" : "slide_2",
+	"item3" : "slide_3"
+  },
+  "menu" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item1 description",
+      "image" : "cardseed_raddish",
+      "name" : "Radish seeds",
+      "price" : 130,
+      "stock" : 100
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item2 description",
+      "image" : "peas",
+      "name" : "Peas seeds",
+      "price" : 120,
+      "stock" : 100
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item3 description",
+      "image" : "sunflower",
+      "name" : "Sunflower Seeds",
+      "price" : 40,
+      "stock" : 100
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item4 description",
+      "image" : "aggrand",
+      "name" : "Aggrand fertilizer",
+      "price" : 140,
+      "stock" : 100
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item5 description",
+      "image" : "scotts",
+      "name" : "Scotts Fertilizers",
+      "price" : 190,
+      "stock" : 100
+    },
+    "item6" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item6 description",
+      "image" : "genesis",
+      "name" : "Genesis Fertilizers",
+      "price" : 70,
+      "stock" : 100
+    },
+    "item7" : {
+      "available" : true,
+      "category" : "cat03",
+      "description" : "item7 description",
+      "image" : "neem_oil",
+      "name" : "Gardensoft Pesticide",
+      "price" : 150,
+      "stock" : 100
+    },
+	"item8" : {
+      "available" : true,
+      "category" : "cat03",
+      "description" : "item8 description",
+      "image" : "ortho",
+      "name" : "Ortho Insect Killer",
+      "price" : 70,
+      "stock" : 100
+    },
+	"item9" : {
+      "available" : true,
+      "category" : "cat03",
+      "description" : "item9 description",
+      "image" : "roundup",
+      "name" : "Roundup Insecticides",
+      "price" : 70,
+      "stock" : 100
+    }
+  }
+}
